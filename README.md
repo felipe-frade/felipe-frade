@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Laravel, Angular, Graphql
 - 🌱 I’m currently learning Laravel, React, VueJS
 - 💬 Ask me about Everything you want / Tudo que desejar
+- 🆕 Open for freelance proposals / Aberto para propostas de freelas
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/felipe-frade-so-dev/" target="_blank">linkedin</a>
   - <a href="http://so-felipe.com.br" target="_blank">Site</a>
