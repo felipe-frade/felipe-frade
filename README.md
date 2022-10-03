@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on Laravel, Angular, Graphql
 - 🌱 I’m currently learning Laravel, React, VueJS
-<-- - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with -->
 - 💬 Ask me about Everything you want / Tudo que desejar
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/felipe-frade-so-dev/" target="_blank">linkedin</a>
