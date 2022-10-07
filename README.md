@@ -17,3 +17,7 @@
   - 🖊️ Then I thought about being a writer / Depois pensei em ser escritor
   - 🧑‍💻 Today I am a developer / Hoje sou um desenvolvedor
   - 📦 I'm creative and I think outside the box / Sou criativo e penso fora da caixa
+
+### About CODE
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
