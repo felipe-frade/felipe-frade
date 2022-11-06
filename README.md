@@ -21,4 +21,4 @@
 ### About CODE
 ![Felipe Status](https://github-readme-stats.vercel.app/api?username=felipe-frade&show_icons=true)
 <br>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&langs_count=15&hide=pascal,batchfile,smalltalk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-frade&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
