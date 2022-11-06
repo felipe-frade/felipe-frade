@@ -19,6 +19,6 @@
   - 📦 I'm creative and I think outside the box / Sou criativo e penso fora da caixa
 
 ### About CODE
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Felipe Status](https://github-readme-stats.vercel.app/api?username=felipe&show_icons=true)
 <br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&langs_count=15&hide=pascal,batchfile,smalltalk)](https://github.com/anuraghazra/github-readme-stats)
