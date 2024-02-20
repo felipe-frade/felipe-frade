@@ -1,9 +1,9 @@
 # Hi, I'm Felipe Pereira
 
 ## Skills and languages
-### 💼 Most used at work: ![Static Badge](https://img.shields.io/badge/Angular-dd0031), ![Static Badge](https://img.shields.io/badge/Laravel-ee4030), ![Static Badge](https://img.shields.io/badge/Jenkins-335061)
-### 🔧 General skills: ![Static Badge](https://img.shields.io/badge/Graphql-f6009c), ![Static Badge](https://img.shields.io/badge/nodejs-026e00), ![Static Badge](https://img.shields.io/badge/Python-2b5b84)
-### 📖 Learning/deeping in: ![Static Badge](https://img.shields.io/badge/nodejs-026e00), ![Static Badge](https://img.shields.io/badge/Tailwind-27aeeb)
+### 💼 Working with: ![Static Badge](https://img.shields.io/badge/Angular-dd0031), ![Static Badge](https://img.shields.io/badge/Laravel-ee4030), ![Static Badge](https://img.shields.io/badge/Jenkins-335061)
+### 🔧 Touched on: ![Static Badge](https://img.shields.io/badge/Graphql-f6009c), ![Static Badge](https://img.shields.io/badge/nodejs-026e00), ![Static Badge](https://img.shields.io/badge/Python-2b5b84)
+### 📖 Deeping in: ![Static Badge](https://img.shields.io/badge/nodejs-026e00), ![Static Badge](https://img.shields.io/badge/Tailwind-27aeeb)
 ### 🆕 Open for freelance proposals / Aberto para propostas de freelas
 
 ## 📫 How to reach me
