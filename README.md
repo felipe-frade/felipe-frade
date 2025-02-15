@@ -10,8 +10,7 @@
 ### <a href="https://www.linkedin.com/in/felipe-frade-so-dev/" target="_blank">linkedin</a>
 ### <a href="https://www.instagram.com/so__felipe/" target="_blank">Instagram</a>
 ### felipe.pereira.developer@gmail.com (professional)
-### felipe.so.dev@gmail.com (professional)
-### felipe_ted2@outlook.com (personal)
+### felipe.so.dev@gmail.com (personal)
  
 ## ⚡ Fun facts
 ### 🏠 First I was thinking about being an architect / Primeiro eu estava pensando em ser um arquiteto
