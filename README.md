@@ -8,7 +8,7 @@
 
 ## 📫 How to reach me
 ### <a href="https://www.linkedin.com/in/felipe-frade-so-dev/" target="_blank">linkedin</a>
-### <a href="https://www.instagram.com/so__felipe/" target="_blank">Instagram</a>
+### <a href="https://www.instagram.com/so__felipe_dev/" target="_blank">Instagram</a>
 ### felipe.pereira.developer@gmail.com (professional)
 ### felipe.so.dev@gmail.com (personal)
  
